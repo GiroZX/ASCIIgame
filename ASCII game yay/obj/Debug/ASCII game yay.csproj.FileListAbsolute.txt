@@ -5,3 +5,10 @@ C:\Users\Windows  8\Desktop\Proyectos Visual\ASCII game yay\ASCII game yay\obj\D
 C:\Users\Windows  8\Desktop\Proyectos Visual\ASCII game yay\ASCII game yay\obj\Debug\ASCII game yay.csproj.CoreCompileInputs.cache
 C:\Users\Windows  8\Desktop\Proyectos Visual\ASCII game yay\ASCII game yay\obj\Debug\ASCII game yay.exe
 C:\Users\Windows  8\Desktop\Proyectos Visual\ASCII game yay\ASCII game yay\obj\Debug\ASCII game yay.pdb
+C:\Users\Windows  8\Desktop\Proyectos Visual\ASCIIgame\ASCII game yay\bin\Debug\ASCII game yay.exe.config
+C:\Users\Windows  8\Desktop\Proyectos Visual\ASCIIgame\ASCII game yay\bin\Debug\ASCII game yay.exe
+C:\Users\Windows  8\Desktop\Proyectos Visual\ASCIIgame\ASCII game yay\bin\Debug\ASCII game yay.pdb
+C:\Users\Windows  8\Desktop\Proyectos Visual\ASCIIgame\ASCII game yay\obj\Debug\ASCII game yay.csprojAssemblyReference.cache
+C:\Users\Windows  8\Desktop\Proyectos Visual\ASCIIgame\ASCII game yay\obj\Debug\ASCII game yay.csproj.CoreCompileInputs.cache
+C:\Users\Windows  8\Desktop\Proyectos Visual\ASCIIgame\ASCII game yay\obj\Debug\ASCII game yay.exe
+C:\Users\Windows  8\Desktop\Proyectos Visual\ASCIIgame\ASCII game yay\obj\Debug\ASCII game yay.pdb
